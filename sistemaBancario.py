@@ -63,7 +63,7 @@ while sistema == True:
       print("\n---------------------------\n")
 
   elif opcao == "n":
-    sistema = False
+    break
   else:
     print("\n------------comando invalido------------")
 
